@@ -6,7 +6,7 @@ define([], function(){
 	        **/
 	        "piocher" : {
                 fr : "Piocher une carte",
-                en : "Draw a card",
+                en : "Draw a cardtt",
                 eo : "Tiri karto"
             },
             "poing" : {
