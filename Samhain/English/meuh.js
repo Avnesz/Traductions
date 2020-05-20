@@ -1,2 +1,2 @@
 Ceci est un meuh
-pouet
+Un meuh perdu dans l'espace
