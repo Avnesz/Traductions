@@ -5,7 +5,7 @@ define([], function(){
 	        * Armes
 	        **/
 	        "piocher" : {
-                fr : "Piocher une cartedsfzs",
+                fr : "Piocher une cartedsfzdsvfdsfzdfvsdfgzergzrgs",
                 en : "Draw a card",
                 eo : "Tiri karto"
             },
